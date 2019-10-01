@@ -86,4 +86,4 @@ function trickFunc(message) {
             }
         }
     }
-trickFunc("hi")()()()()()()()()()()();
+trickFunc()()()()()()()()()()()("hi");
